@@ -1,0 +1,22 @@
+.tableContainer {
+  width: 940px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.thead {
+  background-color: #00bcd4;
+}
+
+.tbodyTr:nth-child(odd) {
+  background-color: #ecf2f3;
+}
+.theadTh,
+.tbodyTd {
+  text-align: center;
+}
+
+.theadTh {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+}
